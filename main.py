@@ -1,4 +1,4 @@
-("-------Loop Number-------")
+print("-------Loop Number-------")
 number = input("Pick a number for the loop:")
 if not number.isdigit():
     print("Needs to be a number");
