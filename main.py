@@ -9,3 +9,5 @@ text = input("Text:")
 print("-------Loop Result-------")
 for i in range(number):
     print(f"{i +1}.{text}")
+
+#-----------Test----------
